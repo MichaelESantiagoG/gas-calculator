@@ -4,7 +4,7 @@ import plotly.graph_objects as go
 st.title("Gas Tank Calculator")
 
 # create input fields for price, capacity, and current level
-price_type = st.radio("Price type", ("Per gallon", "Per liter"))
+price_type = st.radio("Price type", ("Per liter","Per gallon"))
 if price_type == "Per gallon":
     price = st.number_input("Price per gallon")
 else:
