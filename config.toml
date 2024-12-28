@@ -1,2 +1,7 @@
+[server]
+address = "gas-calculator.michael-santiagog15.com
+baseUrlPath = "gas-calculator.michael-santiagog15.com"
+
 [browser]
 serverAddress = "gas-calculator.michael-santiagog15.com"
+
