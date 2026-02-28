@@ -1,7 +1,5 @@
 [server]
-address = "gas-calculator.michael-santiagog15.com
-baseUrlPath = "gas-calculator.michael-santiagog15.com"
+address = "0.0.0.0"
 
 [browser]
-serverAddress = "gas-calculator.michael-santiagog15.com"
-
+serverAddress = "localhost"

@@ -1,0 +1,5 @@
+-r requirements.txt
+pytest>=8.3,<9.0
+ruff>=0.11,<0.12
+black>=25.1,<26.0
+pre-commit>=4.1,<5.0
